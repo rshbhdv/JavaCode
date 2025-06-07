@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 import lecture15.GenericTree.*;
 
+// Binary tree file
 public class BinaryTree {
 	private class Node {
 		int data;
